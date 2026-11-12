@@ -149,7 +149,7 @@ The project successfully demonstrated:
 
 A screen-recorded demonstration of the deployed private cloud environment is available below.
 
-**[Watch the Single-Node OpenStack Project Demonstration](VIDEO_LINK_HERE)**
+**[Watch the Single-Node OpenStack Project Demonstration](https://github.com/channveerswamiHiremath/Openstack_singlenode/blob/main/Video_exp.mp4)**
 
 *Note: The demonstration is a silent screen recording showing the actual implementation and working environment.*
 
@@ -157,7 +157,7 @@ A screen-recorded demonstration of the deployed private cloud environment is ava
 
 Detailed project documentation, including deployment procedures, configuration and implementation screenshots:
 
-**[View Project Documentation (PDF)](PROJECT_PDF_FILENAME.pdf)**
+**[View Project Documentation (PDF)]OpenStack_documentation.pdf**
 
 ## Conclusion
 
